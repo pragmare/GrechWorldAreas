@@ -51,4 +51,4 @@ public void onLeave(PlayerLeaveAreaEvent event) {
 
 ## Demonstration of results:
 
-![Player joining and leaving from a world area](/documentation/images/area-movement-event.gif)
+![Player joining and leaving from a world area](/documentation/images/area-movement-event.webp)
